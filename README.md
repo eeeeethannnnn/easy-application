@@ -312,6 +312,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Roku](https://www.roku.com/about/jobs) | Austin, TX; Los Gatos, CA |
 | [Rover.com](http://jobs.rover.com/) | Seattle, WA |
 | [rubrik](https://www.rubrik.com/company/careers/) | Palo Alto, CA |
+|=======|
 | [SADA Systems](https://sadasystems.com/careers) | Los Angeles, CA |
 | [ScoreBig](http://scorebig.applytojob.com/apply) | Los Angeles, CA |
 | [Scribd](https://www.scribd.com/about/jobs) | San Francisco, CA |
@@ -320,7 +321,6 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Segment](https://segment.com/jobs) | San Francisco, CA |
 | [SendGrid](https://sendgrid.com/careers/) | Denver, CO |
 | [Sensus](https://sensus.com/careers/) | Boise, ID; Morrisville, NC |
-=======
 | [Shazam](https://www.shazam.com/gb/careers?) | London, UK; San Francisco, CA |
 | [SheerID](https://www.sheerid.com/jobs-at-sheerid/) | Eugene, OR |
 | [Shopify](https://www.shopify.com/careers) | Ottawa, ON; Remote; Toronto, ON |
