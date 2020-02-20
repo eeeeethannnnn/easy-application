@@ -39,6 +39,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [August](http://august.com/jobs/#.Vo1p-JMrKHo) | San Francisco, CA |
 | [AutomatedInsights](https://automatedinsights.com/company) | Durham, NC |
 | [Automattic](https://automattic.com/work-with-us/) | San Francisco, CA |
+=======
 | [BambooHR](https://www.bamboohr.com/about/careers.php) | Lindon, UT |
 | [Benchling](https://benchling.com/careers) | San Francisco, CA |
 | [Bending Spoons](http://bendingspoons.com/careers.html) | Milan, Italy; Remote |
@@ -319,6 +320,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Segment](https://segment.com/jobs) | San Francisco, CA |
 | [SendGrid](https://sendgrid.com/careers/) | Denver, CO |
 | [Sensus](https://sensus.com/careers/) | Boise, ID; Morrisville, NC |
+=======
 | [Shazam](https://www.shazam.com/gb/careers?) | London, UK; San Francisco, CA |
 | [SheerID](https://www.sheerid.com/jobs-at-sheerid/) | Eugene, OR |
 | [Shopify](https://www.shopify.com/careers) | Ottawa, ON; Remote; Toronto, ON |
