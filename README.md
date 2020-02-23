@@ -272,6 +272,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Pandora](http://www.pandora.com/careers/all) | Oakland, CA |
 | [Paypal](https://www.paypal.com/webapps/mpp/jobs) | San Jose, CA |
 | [Paytm Labs](//https://jobs.lever.co/paytm) | Bangalore, India; Noida, India; Toronto, ON, Canada |
+|=======|
 | [Pinterest](https://careers.pinterest.com/) | San Francisco, CA |
 | [Pivotal](https://pivotal.io/careers) | Atlanta, GA; Los Angeles, CA; New York, NY; San Francisco, CA |
 | [PlushCare](https://www.plushcare.com/careers/) | San Francisco, CA |
@@ -312,7 +313,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Roku](https://www.roku.com/about/jobs) | Austin, TX; Los Gatos, CA |
 | [Rover.com](http://jobs.rover.com/) | Seattle, WA |
 | [rubrik](https://www.rubrik.com/company/careers/) | Palo Alto, CA |
-|=======|
+
 | [SADA Systems](https://sadasystems.com/careers) | Los Angeles, CA |
 | [ScoreBig](http://scorebig.applytojob.com/apply) | Los Angeles, CA |
 | [Scribd](https://www.scribd.com/about/jobs) | San Francisco, CA |
