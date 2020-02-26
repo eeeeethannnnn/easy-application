@@ -232,6 +232,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Matterport](https://matterport.com/positions/) | Mountain View, CA |
 | [Medallia](http://www.medallia.com/open-positions/) | Buenos Aires, Argentina; Palo Alto, CA |
 | [Medium](https://jobs.medium.com/) | San Francisco, CA |
+|======================|
 | [Meetup](http://www.meetup.com/jobs/) | New York, NY |
 | [Mesosphere](https://mesosphere.com/careers/) | Hamburg, Germany; San Francisco, CA |
 | [Meteor](https://www.meteor.com/careers) | San Francisco, CA |
@@ -262,7 +263,6 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [OneLogin](https://www.onelogin.com/jobs) | San Francisco, CA |
 | [Open Whisper Systems](https://whispersystems.org/workworkwork/) | San Francisco, CA |
 | [Opendoor](https://www.opendoor.com/jobs) | San Francisco, CA |
-|=======|
 | [OpenTable](http://www.opentable.com/careers/) | San Francisco, CA |
 | [OpenX](http://www.openx.com/open-positions/) | Menlo Park, CA |
 | [Operator](https://operator.com/jobs) | San Francisco, CA |
