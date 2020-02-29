@@ -223,6 +223,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Lucid Software](https://www.golucid.co/jobs) | South Jordan, Utah |
 | [Luxe](https://angel.co/luxe-1/jobs) | San Francisco, CA |
 | [Lyft](https://www.lyft.com/jobs) | San Francisco, CA; Seattle, WA |
+|======================|
 | [Machine Zone](https://www.mz.com/careers) | Palo Alto, CA |
 | [Magic](https://getmagic.com/jobs) | San Francisco, CA |
 | [MailChimp](https://mailchimp.com/about/jobs/) | Atlanta, GA |
@@ -232,7 +233,6 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Matterport](https://matterport.com/positions/) | Mountain View, CA |
 | [Medallia](http://www.medallia.com/open-positions/) | Buenos Aires, Argentina; Palo Alto, CA |
 | [Medium](https://jobs.medium.com/) | San Francisco, CA |
-|======================|
 | [Meetup](http://www.meetup.com/jobs/) | New York, NY |
 | [Mesosphere](https://mesosphere.com/careers/) | Hamburg, Germany; San Francisco, CA |
 | [Meteor](https://www.meteor.com/careers) | San Francisco, CA |
