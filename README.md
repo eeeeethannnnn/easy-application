@@ -209,6 +209,7 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Kinnek](https://www.kinnek.com/jointeam/) | New York, NY |
 | [Klarna](https://www.klarna.com/careers) | Stockholm, Sweden |
 | [Knowles](http://www.knowles.com/eng/Our-company/Careers) | Mountain View, CA |
+|======================|
 | [Laserfiche](http://jobs.laserfiche.com/) | Fort Lauderdale, FL; Guadalajara, Mexico; Hong Kong; Los Angeles, CA; London, UK; Washington, D.C.; Shanghai; Toronto, Canada |
 | [LendUp](https://www.lendup.com/careers) | San Francisco, CA |
 | [Lever](https://jobs.lever.co/lever) | San Francisco, CA |
@@ -223,7 +224,6 @@ Please note that it is not encouraged to blindly apply to every company on this 
 | [Lucid Software](https://www.golucid.co/jobs) | South Jordan, Utah |
 | [Luxe](https://angel.co/luxe-1/jobs) | San Francisco, CA |
 | [Lyft](https://www.lyft.com/jobs) | San Francisco, CA; Seattle, WA |
-|======================|
 | [Machine Zone](https://www.mz.com/careers) | Palo Alto, CA |
 | [Magic](https://getmagic.com/jobs) | San Francisco, CA |
 | [MailChimp](https://mailchimp.com/about/jobs/) | Atlanta, GA |
